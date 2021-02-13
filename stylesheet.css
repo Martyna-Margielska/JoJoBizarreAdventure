@@ -1,0 +1,189 @@
+
+body{
+    
+background-color: rgb(236, 189, 255);
+}
+a:link {
+  color: rgb(184, 79, 170);
+  background-color: transparent;
+  text-decoration: none;
+}
+  a:visited {
+    color: rgb(129, 48, 118);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(187, 99, 175);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(207, 123, 196);
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+
+.Heading{
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: rgb(255, 197, 247);
+}
+
+.Home
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    list-style-type:none;
+    position: relative;
+    left: 20%;
+    float: left;
+    width: 60%;
+    padding: 10px;
+    border-width: 5;
+    font-size: 20px;
+    color:rgb(44, 8, 49);
+
+}
+
+.Logo{
+    float:left;
+    width: 40%;
+}
+
+.Header{
+    position: relative;
+max-width: 100%;
+text-align: center;
+border: 5px;
+border-radius: 20px;
+background-color:rgb(29, 7, 26);
+}
+
+.JoJo-Headers{
+align-content: center;
+max-width:100%;
+}
+
+
+.Nav{
+
+position: fixed; 
+top: 30px;
+left: 1%;
+float: left;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+font-size: 25px;
+width: 15%;
+padding: 10px;
+margin-top: 10px;
+border: 5px;
+border-color: rgb(145, 39, 130);
+border-radius: 30px;
+border-style: groove;
+background-color: rgb(236, 160, 226);
+color: rgb(145, 39, 130);
+}
+
+.Parts{
+    position: fixed; 
+    top: 30px;
+    left: 82%;
+    float: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-size: 25px;
+    width: 15%;
+    margin-top: 10px;
+    padding: 10px;
+    border: 5px;
+    border-color: rgb(145, 39, 130);
+    border-radius: 30px;
+    border-style: groove;
+    background-color: rgb(236, 160, 226);
+    color: rgb(145, 39, 130);
+    }
+
+    .Copyright{
+        position: relative;
+        left: 25%;
+        right: 25%;
+        text-align: center;
+        bottom: 20px;
+        font-size: 12px;
+        width: 50%;
+
+    }
+
+    .Titles{
+        color:rgb(44, 8, 49);
+        text-align: center;
+        font-size: 50px;
+        text-decoration: underline;
+    }
+
+    .Subheading{
+        color:rgb(44, 8, 49);
+        text-align: center;
+        font-size: 30px;
+        text-decoration: underline;
+    }
+
+    .CharacterName{
+
+    font-size: 25px;
+    text-align:center;
+    text-decoration: underline;
+    }
+
+    .CharacterLeft{
+        float:left;
+        width:30%
+    }
+
+    .CharacterRight{
+        float:right;
+        width:30%
+    }
+
+    .Contact{
+        text-align: center;
+        font-size:18px;
+    }
+
+    .Icons{
+        float:inherit;
+        width:18px;
+
+    }
+
+    .PB{
+        float:right;
+        width:28%
+    }
+
+    .Dio-Smirk{
+        float:left;
+        width:40%;
+    }
+
+    .Hamon{
+        float:right;
+        width:45%;
+    }
+
+    .Will-Dies{
+        float:left;
+        width:35%;
+    }
+
+    .Jonathan-Dies{
+        float:right;
+        width: 50%;
+    }
